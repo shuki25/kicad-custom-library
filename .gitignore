@@ -27,3 +27,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+!3rdparty/
+
+3rdparty/*
+!3rdparty/footprints/
+
+plugins/
+kikit/
+kicad-packages3D/
