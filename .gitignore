@@ -35,3 +35,4 @@ fp-info-cache
 plugins/
 kikit/
 kicad-packages3D/
+.DS_Store
