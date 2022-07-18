@@ -6,7 +6,7 @@
     (property "Value" "OLED_I2C" (id 1) (at 0 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -7.62 1.27 0)
+    (property "Footprint" "User Custom Footprint:OLED_128x32_I2C_4pins" (id 2) (at -7.62 1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -7.62 1.27 0)
