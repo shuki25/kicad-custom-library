@@ -27,10 +27,10 @@
   (pad "B5" smd rect (at 0.5 -3.08) (size 0.7 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ec1634ff-ac82-4975-979d-5023b928d60c))
   (pad "B9" smd rect (at -1.52 -3.08) (size 0.76 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2bc15570-6356-4938-b4da-837973dee8b5))
   (pad "B12" smd rect (at -2.75 -3.08) (size 0.8 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dec4e0df-0a4f-4af0-879e-6e2ec3ac675a))
+  (pad "S1" thru_hole oval (at 4.32 0.8) (size 1.1 1.7) (drill oval 0.6 1.2) (layers *.Cu) (tstamp 3cb7cece-6dc2-4ed9-a7df-ed1dd338fa1f))
+  (pad "S1" thru_hole oval (at -4.32 0.8) (size 1.1 1.7) (drill oval 0.6 1.2) (layers *.Cu) (tstamp b1f3b4d9-4092-44ae-b3cf-076cae6191fb))
+  (pad "S1" thru_hole oval (at 4.32 -3) (size 1.1 1.7) (drill oval 0.6 1.2) (layers *.Cu) (tstamp ed86b1e3-2ba6-4f2e-9807-5d11241843a4))
   (pad "S1" thru_hole oval (at -4.32 -3) (size 1.1 1.7) (drill oval 0.6 1.2) (layers *.Cu) (tstamp f5dfcc34-ef04-43ff-b19b-c2eb51c0d932))
-  (pad "S2" thru_hole oval (at 4.32 -3) (size 1.1 1.7) (drill oval 0.6 1.2) (layers *.Cu) (tstamp ed86b1e3-2ba6-4f2e-9807-5d11241843a4))
-  (pad "S3" thru_hole oval (at -4.32 0.8) (size 1.1 1.7) (drill oval 0.6 1.2) (layers *.Cu) (tstamp b1f3b4d9-4092-44ae-b3cf-076cae6191fb))
-  (pad "S4" thru_hole oval (at 4.32 0.8) (size 1.1 1.7) (drill oval 0.6 1.2) (layers *.Cu) (tstamp 3cb7cece-6dc2-4ed9-a7df-ed1dd338fa1f))
   (model "${KICAD_USER_DIR}/3dmodels/USB4125-GF-A-0190_REVA2.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
