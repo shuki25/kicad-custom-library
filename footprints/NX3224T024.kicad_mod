@@ -127,4 +127,49 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 90 -180 90))
   )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Horizontal.step"
+    (offset (xyz 26.4 32.2 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD_USER_DIR}/3dmodels/Isolierstütze Rund Typ A I-I M3_-_Ettinger - 5.48.310 (M3x10).stp"
+    (offset (xyz -34 18.2 0))
+    (scale (xyz 1 1 0.6))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD_USER_DIR}/3dmodels/Isolierstütze Rund Typ A I-I M3_-_Ettinger - 5.48.310 (M3x10).stp"
+    (offset (xyz 34 18.1 0))
+    (scale (xyz 1 1 0.6))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD_USER_DIR}/3dmodels/Isolierstütze Rund Typ A I-I M3_-_Ettinger - 5.48.310 (M3x10).stp"
+    (offset (xyz -34 -18.1 0))
+    (scale (xyz 1 1 0.6))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD_USER_DIR}/3dmodels/Isolierstütze Rund Typ A I-I M3_-_Ettinger - 5.48.310 (M3x10).stp"
+    (offset (xyz 34 -18.1 0))
+    (scale (xyz 1 1 0.6))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD_USER_DIR}/3dmodels/m3-5mm.STEP"
+    (offset (xyz 33.5 18.1 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -90 0))
+  )
+  (model "${KICAD_USER_DIR}/3dmodels/m3-5mm.STEP"
+    (offset (xyz -33.5 18.1 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -90 0))
+  )
+  (model "${KICAD_USER_DIR}/3dmodels/m3-5mm.STEP"
+    (offset (xyz 33.5 -18.1 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -90 0))
+  )
+  (model "${KICAD_USER_DIR}/3dmodels/m3-5mm.STEP"
+    (offset (xyz -33.5 -18.1 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -90 0))
+  )
 )
