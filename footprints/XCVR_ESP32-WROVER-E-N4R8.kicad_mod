@@ -1,7 +1,7 @@
 (footprint "XCVR_ESP32-WROVER-E-N4R8" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 63AB4D2D)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -5.825 17.025) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 54f3852a-8581-433a-9808-b59b511e2a74)
