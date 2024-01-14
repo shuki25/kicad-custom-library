@@ -4,6 +4,7 @@
   (property "Sheetfile" "ESP Breadboard Expander.kicad_sch")
   (property "Sheetname" "")
   (property "ki_keywords" "PJ-063BH")
+  (attr through_hole)
   (fp_text reference "REF**" (at 0 2.794 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 47ca9a38-48e7-4ae0-a3cf-30f190b65171)
