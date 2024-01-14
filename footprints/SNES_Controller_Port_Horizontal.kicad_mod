@@ -1,7 +1,7 @@
 (footprint "SNES_Controller_Port_Horizontal" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at -0.02 -8.14 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at -0.02 -3.8 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.12)))
     (tstamp 5f29c9fa-52ba-4e65-b8b7-665111b3e8b9)
   )
